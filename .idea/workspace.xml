@@ -5,18 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a59bbba2-b394-4c40-b154-110a7f584785" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Agents.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Locator_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reset_Password.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xpath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unittest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unittest1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creatingAgents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creating_one_bank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creating_one_branch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creating_two_banks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creatingbankBranches.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Agents.py" beforeDir="false" afterPath="$PROJECT_DIR$/Agents.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xpath.py" beforeDir="false" afterPath="$PROJECT_DIR$/xpath.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,26 +38,36 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2puAaRl3kSP5fQ31hgyWbJ6EFGy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Locator_login.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Python_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Reset_Password.executor&quot;: &quot;Run&quot;,
-    &quot;Python._connection.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.locators1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.xpath.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Locator_login.executor": "Run",
+    "Python.Python_1.executor": "Run",
+    "Python.Reset_Password.executor": "Run",
+    "Python._connection.executor": "Debug",
+    "Python.locators1.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.xpath.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "django-project",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/dericka/PycharmProjects/playwright/pythonProject/creatingbankBranches.py",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dericka\PycharmProjects\playwright\pythonProject" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -101,6 +109,9 @@
       <updated>1733605650825</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

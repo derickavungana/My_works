@@ -43,8 +43,8 @@ with sync_playwright() as play:
     # agent_date=page.wait_for_selector('//input[@type="text"]').click()
     # page.wait_for_timeout(1000)
 
-    agent_date = page.wait_for_selector('//input[@id="registrationDate"]')
-    agent_date.type('12/12/2024')
+    agent_date = page.get_by_label("registrationDate").fill("2020-02-02")
+    #agent_date.type('12/12/2024')
     agent_notes = page.wait_for_selector('//textarea[@name="notes"]')
     agent_notes.type('Agent4')
     page.wait_for_timeout(1000)
